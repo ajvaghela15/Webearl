@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ajvaghela15/Webearl.git/static/css/main.611c79cb.css",
+    "main.js": "/ajvaghela15/Webearl.git/static/js/main.9a5180c2.js",
+    "static/js/453.697eacee.chunk.js": "/ajvaghela15/Webearl.git/static/js/453.697eacee.chunk.js",
+    "static/media/follwimges.jpg": "/ajvaghela15/Webearl.git/static/media/follwimges.cb8deb78bbbae5b4646f.jpg",
+    "static/media/men.jpg": "/ajvaghela15/Webearl.git/static/media/men.0b0744387e12e9ae2885.jpg",
+    "static/media/shoes-imges.jpeg": "/ajvaghela15/Webearl.git/static/media/shoes-imges.ec96a0cc6a39ab0654bb.jpeg",
+    "static/media/shoesimgesss.jpg": "/ajvaghela15/Webearl.git/static/media/shoesimgesss.decaa2653f21903290ba.jpg",
+    "index.html": "/ajvaghela15/Webearl.git/index.html",
+    "main.611c79cb.css.map": "/ajvaghela15/Webearl.git/static/css/main.611c79cb.css.map",
+    "main.9a5180c2.js.map": "/ajvaghela15/Webearl.git/static/js/main.9a5180c2.js.map",
+    "453.697eacee.chunk.js.map": "/ajvaghela15/Webearl.git/static/js/453.697eacee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.611c79cb.css",
+    "static/js/main.9a5180c2.js"
+  ]
+}
